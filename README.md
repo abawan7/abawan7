@@ -1,4 +1,4 @@
-![image](https://github.com/abawan7/abawan7/assets/96500932/c6890aaa-8aff-41b9-8735-50b2dac46d5d)<h1 align="center">
+<h1 align="center">
   Hello, I'm Abdullah 👋
 </h1>
 <p align="center">
