@@ -11,17 +11,18 @@
 <div style="background-color:#0A66C2; padding:10px; display: flex; align-items: center;">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank" style="text-decoration: none;">
-        <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" style="height: 40px; width: auto; margin-right: 10px;">
+        <img src="https://github.com/abawan7/abawan7/assets/96500932/df5ff5ea-2797-45f7-b06b-49ea547b2796" alt="LinkedIn" style="height: 40px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Email -->
     <a href="mailto:mlkabawan336@gmail.com" target="blank" style="text-decoration: none;">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gmail" style="height: 40px; width: auto; margin-right: 10px;">
+        <img src="https://github.com/abawan7/abawan7/assets/96500932/ebb69f07-2c04-432b-8752-5838daa0c426" alt="Gmail" style="height: 40px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Upwork -->
     <a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank" style="text-decoration: none;">
-        <img src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" alt="Upwork Profile" style="height: 40px; width: auto;">
+        <img src="https://github.com/abawan7/abawan7/assets/96500932/03319905-f3ec-47df-adba-4171885a13cc" alt="Upwork Profile" style="height: 40px; width: 40px;">
     </a>
 </div>
+
 
 
 
