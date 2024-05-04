@@ -6,8 +6,6 @@
 </p>
 
 
-## 🌐 Socials:
-
 <div style="background-color:#0A66C2; padding:10px; display: flex; align-items: center;">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank" style="text-decoration: none;">
