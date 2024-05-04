@@ -11,7 +11,7 @@
 <div style="background-color:#0A66C2; padding:10px; display: flex; align-items: center;">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="abdullah-awan-4778951aa" style="height: 40px; width: 40px; margin-right: 10px;">
+        <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="abdullah-awan-4778951aa" style="height: 40px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Email -->
     <a href="mailto:mlkabawan336@gmail.com" target="blank">
