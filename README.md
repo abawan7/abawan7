@@ -3,7 +3,6 @@
 </h1>
 <br>
 <p align="center">
-  <h1>Hello, I'm Abdullah 👋</h1><br>
   I am a student at FAST-NUCES
 </p>
 
