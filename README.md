@@ -11,15 +11,15 @@
 <div style="background-color:#0A66C2; padding:10px; display: flex; align-items: center;">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="abdullah-awan-4778951aa" style="height: 30px; width: 40px; margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="abdullah-awan-4778951aa" style="height: 40px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Email -->
     <a href="mailto:mlkabawan336@gmail.com" target="blank">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="mlkabawan336@gmail.com" style="height: 30px; width: 40px; margin-right: 10px;">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="mlkabawan336@gmail.com" style="height: 40px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Upwork -->
     <a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank">
-        <img src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" alt="Upwork Profile" style="height: 30px; width: 40px;">
+        <img src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" alt="Upwork Profile" style="height: 40px; width: 40px;">
     </a>
 </div>
 
