@@ -4,15 +4,21 @@
 </p>
 
 
-<p align="left">
-<a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-awan-4778951aa" height="30" width="40" /></a>
-<a href="mailto:mlkabawan336@gmail.com" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/327408/email.svg" alt="mlkabawan336@gmail.com" height="30" width="40" />
-</a>
-<a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/349374/upwork.svg" alt="Upwork Profile" height="30" width="40" />
-</a>
-</p>
+<div style="background-color:#0A66C2; padding:10px;">
+    <!-- LinkedIn -->
+    <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-awan-4778951aa" height="30" width="40" />
+    </a>
+    <!-- Email -->
+    <a href="mailto:mlkabawan336@gmail.com" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mlkabawan336@gmail.com" height="30" width="40" />
+    </a>
+    <!-- Upwork -->
+    <a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Upwork Profile" height="30" width="40" />
+    </a>
+</div>
+
 
 
 ## 🌐 Socials:
