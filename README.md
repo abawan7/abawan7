@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hello, I'm Abdullah 👋</strong><br>
+  <h1>Hello, I'm Abdullah 👋</h1><br>
   I am a student at FAST-NUCES
 </p>
 
