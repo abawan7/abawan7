@@ -8,20 +8,21 @@
 
 ## 🌐 Socials:
 
-<div style="background-color:#0A66C2; padding:10px;">
+<div style="background-color:#0A66C2; padding:10px; display: flex; align-items: center;">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-awan-4778951aa" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-awan-4778951aa" style="height: 30px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Email -->
     <a href="mailto:mlkabawan336@gmail.com" target="blank">
-        <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Gmail-logo-png-icon.png" alt="mlkabawan336@gmail.com" height="30" width="40" />
+        <img src="https://www.edigitalagency.com.au/wp-content/uploads/Gmail-logo-png-icon.png" alt="mlkabawan336@gmail.com" style="height: 30px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Upwork -->
     <a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Upwork Profile" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Upwork Profile" style="height: 30px; width: 40px;">
     </a>
 </div>
+
 
 
 ## 🌐 Socials:
