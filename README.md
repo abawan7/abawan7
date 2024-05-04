@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/abawan7/abawan7/assets/96500932/c6890aaa-8aff-41b9-8735-50b2dac46d5d)<h1 align="center">
   Hello, I'm Abdullah 👋
 </h1>
 <p align="center">
@@ -15,13 +15,15 @@
     </a>
     <!-- Email -->
     <a href="mailto:mlkabawan336@gmail.com" target="blank">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="mlkabawan336@gmail.com" style="height: 40px; width: 40px; margin-right: 10px;">
+        <img src="" style="height: 40px; width: 40px; margin-right: 10px;">
     </a>
     <!-- Upwork -->
     <a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank">
         <img src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" alt="Upwork Profile" style="height: 40px; width: 40px;">
     </a>
 </div>
+![image](https://github.com/abawan7/abawan7/assets/96500932/03319905-f3ec-47df-adba-4171885a13cc)
+
 
 
 ## 💻 Tech Stack:
