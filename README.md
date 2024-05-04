@@ -19,7 +19,7 @@
     </a>
     <!-- Upwork -->
     <a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Upwork Profile" style="height: 30px; width: 40px;">
+        <img src="https://w7.pngwing.com/pngs/80/704/png-transparent-upwork-hd-logo.png" alt="Upwork Profile" style="height: 30px; width: 40px;">
     </a>
 </div>
 
