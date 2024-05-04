@@ -1,6 +1,8 @@
-# Hello, I'm Abdullah 👋
+<p align="center">
+  <strong>Hello, I'm Abdullah 👋</strong><br>
+  I am a student at FAST-NUCES
+</p>
 
-##I am a student at FAST-NUCES
 
 [![](https://visitcount.itsvg.in/api?id=abawan7&icon=5&color=0)](https://visitcount.itsvg.in)
 
