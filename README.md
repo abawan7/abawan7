@@ -27,10 +27,11 @@
 
 
 ## 🛠️ My Upwork Statistics
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abawan7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="height: 195px; margin-left: 800px; margin-right: 100px;" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abawan7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="height: 195px; margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abawan7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 195px;" />
 </div>
+
 
 
 
