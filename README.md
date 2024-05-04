@@ -2,7 +2,7 @@
   Hello, I'm Abdullah 👋
 </h1>
 <p align="center">
-  I am a student at FAST-NUCES
+  <strong>I am a student at FAST-NUCES</strong>
 </p>
 
 
