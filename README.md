@@ -6,6 +6,8 @@
 </p>
 
 
+## 🌐 Socials:
+
 <div style="background-color:#0A66C2; padding:10px;">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="blank">
@@ -13,14 +15,13 @@
     </a>
     <!-- Email -->
     <a href="mailto:mlkabawan336@gmail.com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mlkabawan336@gmail.com" height="30" width="40" />
+        <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Gmail-logo-png-icon.png" alt="mlkabawan336@gmail.com" height="30" width="40" />
     </a>
     <!-- Upwork -->
     <a href="https://www.upwork.com/freelancers/~013098ff39d9313d32" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Upwork Profile" height="30" width="40" />
     </a>
 </div>
-
 
 
 ## 🌐 Socials:
