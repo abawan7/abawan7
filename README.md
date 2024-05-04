@@ -1,7 +1,6 @@
 <h1 align="center">
   Hello, I'm Abdullah 👋
 </h1>
-<br>
 <p align="center">
   I am a student at FAST-NUCES
 </p>
