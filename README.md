@@ -24,15 +24,10 @@
 
 
 ##  <div align="center"> 🛠️ My Github Statistics </div>
-<div style="align-items: center; height: 100%; width: 100%;">
- 
-</div>
-
-
 <p align="center">
 <a href="https://github.com/abawan7">
-  <img src="https://github-readme-stats.vercel.app/api?username=abawan7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abawan7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 195px;/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=abawan7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=abawan7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 195px;/>
 </a>
 </p>
 
