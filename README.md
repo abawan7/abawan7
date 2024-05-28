@@ -1,9 +1,14 @@
 <h1 align="center">
   Hello, I'm Abdullah 👋
 </h1>
+
 <p align="center">
   <strong>I am a student at FAST-NUCES</strong>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=abawan7&amp;&amp;style=flat-square" align="center">
+</div>
 
 ## <div align="center">🌱 &nbsp;Social Networks:</div>
 
