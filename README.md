@@ -16,7 +16,7 @@
   <a href="https://github.com/abawan7" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/abdullah-awan-4778951aa" target="_blank">
+  <a href="https://www.linkedin.com/in/abawan7/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
   </a>
 </div>
