@@ -13,7 +13,7 @@
 ## <div align="center">🌱 &nbsp;Social Networks:</div>
 <div id="badges" align="center">
 <p><a target="_blank" href="https://www.linkedin.com/in/abawan7" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /></a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:mlkabawan337@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" style="width:40px; height:40px;"/>
 </a></p>
 </div>
